@@ -71,67 +71,108 @@ We experiment with the latest technologies, design approaches and development me
             "img": "https://i.redd.it/ap59u9hswzk11.png"
         },
         {
-            "name": "Violet Evergarden",
-            "description": "There are words Violet heard on the battlefield, which she cannot forget. These words were given to her by someone she holds dear, more than anyone else. She does not yet know their meaning.A certain point in time, in the continent of Telesis. The great war which divided the continent into North and South has ended after four years, and the people are welcoming a new generation.",
-            "Rating": "8.39",
+            "name": "INFOSYS",
+            "description": "Infosys Limited is an Indian multinational corporation that provides business consulting, information technology and outsourcing services. It has its headquarters in Bengaluru, Karnataka, India. Wikipedia
+CEO: Salil Parekh (2 Jan 2018–)
+Stock price: INFY (NSE) ₹ 734.00 +6.85 (+0.94%)
+7 Sep, 3:30 PM IST - Disclaimer
+Headquarters: Bengaluru
+Founded: 7 July 1981, Pune
+Revenue: 1,093.9 crores USD (2018)
+Subsidiaries: Panaya, Infosys BPM, Skava, MORE
+Founders: N. R. Narayana Murthy, Nandan Nilekani.",
+            "Rating": "14 Sept",
             "episode": 14,
-            "categorie":"Fantasy | Drama ",
-            "studio":"Kyoto Animation",
-            "img": "https://myanimelist.cdn-dena.com/images/anime/1329/90618.jpg"
+            "categorie":"Pool Campus | CTC - 7.5L ",
+            "studio":"LBSIM College",
+            "img": "https://i.redd.it/hz04msl191l11.png"
         },
         {
-            "name": "Tokyo Ghoul",
-            "description": "",
-            "Rating": "8.01",
+            "name": "WIPRO",
+            "description": "Wipro Limited is an Indian Information Technology Services corporation headquartered in Bengaluru, India. In 2013, Wipro demerged its non-IT businesses into separate companies to bring in more focus on independent businesses. Wikipedia
+Stock price: WIPRO (NSE) ₹ 323.30 +2.10 (+0.65%)
+7 Sep, 3:30 PM IST - Disclaimer
+Founded: 29 December 1945, India
+Headquarters: Bengaluru
+Revenue: 840 crores USD (2018)
+Founders: M.H. Hasham Premji, Mohamed Premji
+Subsidiaries: Appirio, Topcoder, Yardley of London, Wipro Infotech, ",
+            "Rating": "12 Sept",
             "episode": 12,
-            "categorie":"Action | Mystery",
-            "studio":"Studio Pierrot",
-            "img": "https://myanimelist.cdn-dena.com/images/anime/5/64449.jpg"
+            "categorie":"On campus | CTC -4.5L ",
+            "studio":"IITM College",
+            "img": "https://i.redd.it/z0ko5ws3b1l11.png"
         },
         {
-            "name": "Black Clover",
-            "description": "Asta and Yuno were abandoned at the same church on the same day. Raised together as children, they came to know of the Wizard King—a title given to the strongest mage in the kingdom—and promised that they would compete against each other for the position of the next Wizard King. However, as they grew up, the stark difference between them became evident. While Yuno is able to wield magic with amazing power and control, Asta cannot use magic at all and desperately tries to awaken his powers by training physically.",
-            "Rating": "6.55",
+            "name": "TECH MAHINDRA",
+            "description": "Tech Mahindra Limited is an Indian multinational provider of information technology, networking technology solutions and Business Process Outsourcing to various industry verticals and horizontals. Wikipedia
+Stock price: TECHM (NSE) ₹ 771.05 -4.00 (-0.52%)
+7 Sep, 3:30 PM IST - Disclaimer
+CEO: C. P. Gurnani (24 May 2012–)
+Headquarters: Mumbai
+Revenue: 477 crores USD (2018)
+Subsidiaries: Mahindra Comviva, FixStream Network Inc..",
+            "Rating": "10 Sept",
             "episode": 51,
-            "categorie":"Magic | Shounen | Adventure",
-            "studio":"Studio Pierrot",
-            "img": "https://myanimelist.cdn-dena.com/images/anime/2/88336.jpg"
+            "categorie":"Walkins | CTC-6.5L",
+            "studio":"Noida",
+            "img": "https://i.redd.it/68cfg0okb1l11.png"
         },
         {
-            "name": "Sword Art Online",
-            "description": "In the year 2022, virtual reality has progressed by leaps and bounds, and a massive online role-playing game called Sword Art Online (SAO) is launched. With the aid of NerveGear technology, players can control their avatars within the game using nothing but their own thoughts.",
-            "Rating": "7.66",
+            "name": "ALIGHT",
+            "description": "About Alight Solutions
+As a leading provider of benefits administration and cloud-based HR and financial solutions, we enhance work and life through our service, technology and data. Our dedicated colleagues across 12 global centers deliver an unrivaled consumer experience for our clients and their people. We are Alight. Reimagining how people and organizations thrive..",
+            "Rating": "22 Aug",
             "episode": 25,
-            "categorie":"Drama | Adventure",
-            "studio":"A-1 Pictures",
-            "img": "https://myanimelist.cdn-dena.com/images/anime/11/39717.jpg"
+            "categorie":"On Campus | CTC -5.5L",
+            "studio":"IITM College",
+            "img": "https://i.redd.it/ferkpqexb1l11.png"
         },
         {
-            "name": "Nanatsu no Taizai",
-            "description": "It has been two and a half years since Naruto Uzumaki left Konohagakure, the Hidden Leaf Village, for intense training following events which fueled his desire to be stronger. Now Akatsuki, the mysterious organization of elite rogue ninja, is closing in on their grand plan which may threaten the safety of the entire shinobi world.",
-            "Rating": "8.30",
+            "name": "CAPGEMINI",
+            "description": "Capgemini SE is a French multinational professional services and business consulting corporation headquartered in Paris, France. Wikipedia
+Stock price: CAP (EPA) € 105.20 +0.15 (+0.14%)
+7 Sep, 5:37 PM GMT+2 - Disclaimer
+CEO: Paul Hermelin (Dec 2001–)
+Headquarters: Paris, France
+Revenue: 1,279 crores EUR (2017)
+Subsidiaries: Sogeti, IGATE, Capgemini India, Fahrenheit 212.",
+            "Rating": "17 Aug",
             "episode": 24,
-            "categorie":"Animation | Drama | Adventure",
-            "studio":"A-1 Pictures",
-            "img": "https://myanimelist.cdn-dena.com/images/anime/8/65409.jpg"
+            "categorie":"Walkings | CTC -7.5L ",
+            "studio":"Gurugram",
+            "img": "https://i.redd.it/vnwkt6x5d1l11.png"
         },
         {
-            "name": "Kiseijuu: Sei no Kakuritsu",
-            "description": "It has been two and a half years since Naruto Uzumaki left Konohagakure, the Hidden Leaf Village, for intense training following events which fueled his desire to be stronger. Now Akatsuki, the mysterious organization of elite rogue ninja, is closing in on their grand plan which may threaten the safety of the entire shinobi world.",
-            "Rating": "8.53",
+            "name": "DELOITTE",
+            "description": "Deloitte Touche Tohmatsu Limited, commonly referred to as Deloitte, is a multinational professional services network. Wikipedia
+CEO: Punit Renjen (1 Jun 2015–)
+Revenue: 3,880 crores USD (2017)
+Headquarters: New York City, New York, United States
+Number of employees: 2,63,900 (2017)
+Founder: William Welch Deloitte
+Subsidiaries: Monitor Deloitte, Deloitte Deutschland,.",
+            "Rating": "31 July",
             "episode": 24,
-            "categorie":"Animation | Drama | Adventure",
-            "studio":"Madhouse",
-            "img": "https://myanimelist.cdn-dena.com/images/anime/3/73178.jpg"
+            "categorie":"Pool Campus | CTC - 4.5L",
+            "studio":"IITM College",
+            "img": "https://i.redd.it/mlfwfpdhd1l11.png"
         },
         {
-            "name": "Hunter x Hunter (2011)",
-            "description": "It has been two and a half years since Naruto Uzumaki left Konohagakure, the Hidden Leaf Village, for intense training following events which fueled his desire to be stronger. Now Akatsuki, the mysterious organization of elite rogue ninja, is closing in on their grand plan which may threaten the safety of the entire shinobi world.",
-            "Rating": "9.11",
+            "name": "AMAZON",
+            "description": "Amazon.com, Inc., doing business as Amazon, is an American electronic commerce and cloud computing company based in Seattle, Washington, that was founded by Jeff Bezos on July 5, 1994. Wikipedia
+Customer service: 1800 3000 9009
+Stock price: AMZN (NASDAQ) US$ 1,952.07 -6.24 (-0.32%)
+7 Sep, 4:00 PM GMT-4 - Disclaimer
+CEO: Jeff Bezos (May 1996–)
+Owned by: Jeff Bezos
+Founder: Jeff Bezos
+Subsidiaries: Audible, Zappos, Souq.com, Book Depository.",
+            "Rating": "25 July",
             "episode": 148,
-            "categorie":"Animation | Drama | Adventure",
-            "studio":"Madhouse",
-            "img": "https://myanimelist.cdn-dena.com/images/anime/11/33657.jpg"
+            "categorie":"Job Fair | CTC - 4.8L",
+            "studio":"Chennai",
+            "img": "https://i.redd.it/lvbykaiif1l11.png"
         }
 
     ]
