@@ -1,57 +1,74 @@
     [
         {
-            "name": "WUNDERMAN",
-            "description": "Wunderman is Creatively Driven. Data Inspired. A leading global digital agency, Wunderman combines creativity and data into work that inspires consumers to take action and delivers results for brands. 
-
-Wunderman has been widely recognized for its work. Forrester Research named us a leader in marketing database operations and a strong performer in customer engagement strategy*. 
-Headquartered in New York, we have 9,200 creatives, data scientists, strategists and technologists in 200 offices in 70 markets. Wunderman is a ‘team first’ culture committed to creating an environment where people come to do the best work of their careers. 
-
-* The Forrester Wave™, Customer Insights Services Providers, Q4 2015
-            
-                                         
-     Phone            -     +91 (124) 4711 399
-     Contact Person   -     Amrit",
-            "Rating": "26 september",
+            "name": "NIIT TECHNOLOGIES",
+            "description": "NIIT Technologies Limited is an IT provider with customers in travel and transportation, banking and financial services, insurance, manufacturing and media verticals, offering a range of services ... Wikipedia
+Stock price: NIITTECH (NSE) ₹ 1,369.45 +13.25 (+0.98%)
+7 Sep, 3:30 PM IST - Disclaimer
+Headquarters: India
+CEO: Sudhir Singh
+Number of employees: 9,764 (Q1FY19).",
+            "Rating": "02 Nov",
             "episode": 500,
-            "categorie":"Poolcampus | CTC-3.5L",
+            "categorie":"On Campus | CTC-3.5L",
             "studio":"IITM college",
+            "img": "https://i.redd.it/ibsszz4ewzk11.png"
+        },
+        {
+            "name": "SAP",
+            "description": "SAP SE is a German-based European multinational software corporation that makes enterprise software to manage business operations and customer relations. Wikipedia
+Stock price: SAP (ETR) € 100.56 +1.80 (+1.82%)
+7 Sep, 5:35 PM GMT+2 - Disclaimer
+CEO: Bill McDermott (21 May 2014–)
+Headquarters: Walldorf, Germany
+Subsidiaries: SuccessFactors, SAP Ariba, SAP Concur, Sybase, MORE
+Founders: Hasso Plattner, Dietmar Hopp, Claus Wellenreuther, Klaus Tschira, Hans-Werner Hector.",
+            "Rating": "30 Oct",
+            "episode": 700,
+             "categorie":"Pool Drive | CTC - 4.2L ",
+            "studio":"GURUGRAM",
+            "img": "https://i.redd.it/ja3nghe8wzk11.png"
+        },
+        {
+            "name": "TCS",
+            "description": "Tata Consultancy Services Limited is an Indian multinational information technology service, consulting company headquartered in Mumbai, Maharashtra. It is part of the Tata Group and operates in 46 countries. Wikipedia
+Stock price: TCS (NSE) ₹ 2,078.75 +3.45 (+0.17%)
+7 Sep, 3:30 PM IST - Disclaimer
+Revenue: 1,908 crores USD (2018)
+Headquarters: Mumbai
+Founded: 1968
+Number of employees: 3,71,519
+Founders: F. C. Kohli, J. R. D. Tata.",
+            "Rating": "25 Oct",
+            "episode": 500,
+            "categorie":"Pool Campus | CTC - 6.5L",
+            "studio":"Noida",
+            "img": "https://i.redd.it/vtjn3y6lwzk11.png"
+        },
+        {
+            "name": "WUNDERMAN",
+            "description": "Wunderman is a global digital agency with 200 offices in 70 markets. Headquartered in New York City, Wunderman is part of Young & Rubicam Brands and a member of WPP Group. Wikipedia
+CEO: Mark Read (1 Feb 2015–)
+Headquarters: New York City, New York, United States
+Founder: Lester Wunderman
+Founded: 1958
+Subsidiaries: Wunderman Seattle, Blast Radius, MORE
+Parent organizations: Young & Rubicam, WPP plc.",
+            "Rating": "25 Sept",
+            "episode": 70,
+            "categorie":"Pool Campus | CTC - 3.5L",
+            "studio":"VIPS",
             "img": "https://i.redd.it/2xjelm8g6zk11.png"
         },
         {
-            "name": "One Piece",
-            "description": "Gol D. Roger was known as the 'Pirate King',the strongest and most infamous being to have sailed the Grand Line. The capture and death of Roger by the World Government brought a change throughout the world. His last words before his death revealed the existence of the greatest treasure in the world, One Piece. It was this revelation that brought about the Grand Age of Pirates, men who dreamed of finding One Piece—which promises an unlimited amount of riches and fame—and quite possibly the pinnacle of glory and the title of the Pirate King.",
-            "Rating": "8.54",
-            "episode": 700,
-             "categorie":"Animation | Drama | Adventure",
-            "studio":"Toei Animation",
-            "img": "https://myanimelist.cdn-dena.com/images/anime/6/73245.jpg"
-        },
-        {
-            "name": "Attack on Titan",
-            "description": "Centuries ago, mankind was slaughtered to near extinction by monstrous humanoid creatures called titans, forcing humans to hide in fear behind enormous concentric walls. What makes these giants truly terrifying is that their taste for human flesh is not born out of hunger but what appears to be out of pleasure. To ensure their survival, the remnants of humanity began living within defensive barriers, resulting in one hundred years without a single titan encounter. However, that fragile calm is soon shattered when a colossal titan manages to breach the supposedly impregnable outer wall, reigniting the fight for survival against the man-eating abominations.",
-            "Rating": "8.50",
+            "name": "DAFFODIL",
+            "description": "Daffodil is a software engineering company that is a technology partner to 80+ dynamic organizations across the globe. Our ability to look beyond technologies and deliver innovative and progressive solutions has been lauded by our clients as well as the tech community worldwide.
+
+We experiment with the latest technologies, design approaches and development methodologies to build cutting edge software products..",
+            "Rating": "15 Sept",
             "episode": 500,
-            "categorie":"Animation | Drama | Adventure",
-            "studio":"Wit Studio",
-            "img": "https://myanimelist.cdn-dena.com/images/anime/10/47347.jpg"
-        },
-        {
-            "name": "Monster",
-            "description": "It has been two and a half years since Naruto Uzumaki left Konohagakure, the Hidden Leaf Village, for intense training following events which fueled his desire to be stronger. Now Akatsuki, the mysterious organization of elite rogue ninja, is closing in on their grand plan which may threaten the safety of the entire shinobi world.",
-            "Rating": "8.16",
-            "episode": 70,
-            "categorie":"Animation | Drama | Adventure",
-            "studio":"Madhouse",
-            "img": "https://myanimelist.cdn-dena.com/images/anime/10/18793.jpg"
-        },
-        {
-            "name": "Death Note",
-            "description": "It has been two and a half years since Naruto Uzumaki left Konohagakure, the Hidden Leaf Village, for intense training following events which fueled his desire to be stronger. Now Akatsuki, the mysterious organization of elite rogue ninja, is closing in on their grand plan which may threaten the safety of the entire shinobi world.",
-            "Rating": "8.16",
-            "episode": 500,
-            "categorie":"Animation | Adventure",
-            "studio":"Madhouse",
-            "img": "https://myanimelist.cdn-dena.com/images/anime/9/9453.jpg"
+            "categorie":"On Campus | CTC - 4.5L",
+            "studio":"IITM",
+            "img": "https://i.redd.it/ap59u9hswzk11.png"
         },
         {
             "name": "Violet Evergarden",
