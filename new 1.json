@@ -115,14 +115,14 @@ Parent organizations: Young & Rubicam, WPP plc.",
             "Rating": "25 Sept",
             "episode": 70,
             "categorie":"Pool Campus | CTC - 3.5L",
-            "studio":"VIPS",
+            "studio":"IITM",
             "img": "https://i.redd.it/2xjelm8g6zk11.png"
         },
         {
             "name": "DAFFODIL",
             "description": "Daffodil is a software engineering company that is a technology partner to 80+ dynamic organizations across the globe. Our ability to look beyond technologies and deliver innovative and progressive solutions has been lauded by our clients as well as the tech community worldwide.
 
-We experiment with the latest technologies, design approaches and development methodologies to build cutting edge software products..",
+We experiment with the latest technologies, design approaches and development methodologies to build cutting edge software products.",
             "Rating": "15 Sept",
             "episode": 500,
             "categorie":"On Campus | CTC - 4.5L",
@@ -204,6 +204,21 @@ Subsidiaries: Sogeti, IGATE, Capgemini India, Fahrenheit 212.",
         },
         {
             "name": "DELOITTE",
+            "description": "Deloitte Touche Tohmatsu Limited, commonly referred to as Deloitte, is a multinational professional services network. Wikipedia
+CEO: Punit Renjen (1 Jun 2015–)
+Revenue: 3,880 crores USD (2017)
+Headquarters: New York City, New York, United States
+Number of employees: 2,63,900 (2017)
+Founder: William Welch Deloitte
+Subsidiaries: Monitor Deloitte, Deloitte Deutschland,.",
+            "Rating": "31 July",
+            "episode": 24,
+            "categorie":"Pool Campus | CTC - 4.5L",
+            "studio":"IITM College",
+            "img": "https://i.redd.it/mlfwfpdhd1l11.png"
+        },
+	    {
+            "name": "NEW",
             "description": "Deloitte Touche Tohmatsu Limited, commonly referred to as Deloitte, is a multinational professional services network. Wikipedia
 CEO: Punit Renjen (1 Jun 2015–)
 Revenue: 3,880 crores USD (2017)
